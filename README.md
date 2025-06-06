@@ -1,4 +1,4 @@
-## Hi there, I'm [Dian Ling(Virgil)](https://github.com/virgiling/), a code rookie👋
+## Hi there, I'm [Dian 'Virgil' Ling](https://github.com/virgiling/), a code rookie👋
 
 - 🧐 Interested in computer system(os basicly), SAT and combination optimization problem.
 - 🎓 Pursuing master degree in Computer Science at Northeast Normal University, seeking for a Ph.D project in SAT/Constraints Solving.
